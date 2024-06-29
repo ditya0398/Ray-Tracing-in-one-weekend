@@ -1,3 +1,7 @@
+// Command used to compile on MAC : 
+// 1) clang++  -std=c++11 main.cpp -o test
+// 2) ./test > img.ppm
+
 #include<iostream>
 
 

@@ -35,6 +35,7 @@ int main() {
    auto viewport_v = vec3(0, -viewport_height, 0);
 
    // Calculate tge horizontal and vertical delta vectors
+   // You can also refer this as pixel dimension
    auto pixel_delta_u = viewport_u / image_width;
    auto pixel_delta_v = viewport_v / image_height;
 

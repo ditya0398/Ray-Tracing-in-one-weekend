@@ -31,6 +31,7 @@ class hittable_list : public hittable {
             std::cerr << 'Inside the forloop for hittable_list hit func' << std::endl;
             if (object->hit(r, ray_tmin, closest_so_far, temp_rec)) {
                 hit_anything = true;
+                // this is done to consider the pixel which is the closest and not the far once
                 closest_so_far = temp_rec.t;
                 rec = temp_rec;
             }

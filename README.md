@@ -20,7 +20,7 @@ Run the following commands to run any sample
 ![Normals Visualisation](https://github.com/ditya0398/Ray-Tracing-in-one-weekend/assets/53263733/a99eb8ad-6c4d-4c6c-abff-7c809e39feef)
 
 
-![Diffused Reflections]((https://github.com/ditya0398/Ray-Tracing-in-one-weekend/assets/53263733/f3c4769b-d119-460b-bd3c-f7845317d034))
+![Diffused Reflections](https://github.com/ditya0398/Ray-Tracing-in-one-weekend/assets/53263733/f3c4769b-d119-460b-bd3c-f7845317d034)
 
 
 

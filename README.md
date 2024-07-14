@@ -1,4 +1,4 @@
-# Ray Tracing in One Weekend by Peter Shirley
+# Ray Tracing in One Weekend by Dr.Peter Shirley
 
 # Build 
 Run the following commands to run any sample  

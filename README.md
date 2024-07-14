@@ -1,6 +1,6 @@
 # Ray Tracing in One Weekend by Dr.Peter Shirley
 
-# Build 
+# Steps to build 
 Run the following commands to run any sample  
 
 1) clang++  -std=c++11 main.cpp -o test

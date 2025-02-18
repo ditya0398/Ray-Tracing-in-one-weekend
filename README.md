@@ -3,7 +3,7 @@
 # Steps to build 
 Run the following commands to run any sample  
 
-Mac:
+MacOS:
 1) clang++  -std=c++11 main.cpp -o test
 2) ./test > img.ppm
 
